@@ -1,3 +1,11 @@
+header_pages:
+main.md
+about.md
+find.md
+
 remote_theme: b2a3e8/jekyll-theme-console
+
 author: enoodle
+
 description: pages-test
+
