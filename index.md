@@ -1,4 +1,6 @@
 ---
-# Hi.
+title: enoodle
+---
+# Welcome to E Noodle.
 
-E Noodle is the personal project of ATL-based creative, Evan N.
+personal project of ATL-based creative, Evan N.
