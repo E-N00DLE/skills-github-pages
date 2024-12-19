@@ -8,4 +8,4 @@ title: /enoodle
 
 personal project of Evan N.
 
-<img src="docs/assets/Script-intro_anim_v3.4.gif" alt="Sample Image" style="width:50%; height:auto;">
+<img src="https://github.com/E-N00DLE/skills-github-pages/blob/main/docs/assets/Script-intro_anim_v3.4.gif" alt="Sample Image" style="width:50%; height:auto;">
