@@ -8,6 +8,6 @@ title: /enoodle
 
 personal project of Evan N.
 
-<img src="https://raw.githubusercontent.com/E-N00DLE/skills-github-pages/refs/heads/main/docs/assets/Script-intro_anim_v3.4.gif" width="256">
+<img src="https://raw.githubusercontent.com/E-N00DLE/skills-github-pages/refs/heads/main/docs/assets/Script-intro_anim_v3.4.gif" width="256; height:64">
 
-<img src="https://raw.githubusercontent.com/E-N00DLE/skills-github-pages/refs/heads/main/docs/assets/Script-intro_anim_v3.4.gif" width="50%">
+<img src="https://raw.githubusercontent.com/E-N00DLE/skills-github-pages/refs/heads/main/docs/assets/Script-intro_anim_v3.4.gif" width="50%; height:auto">
