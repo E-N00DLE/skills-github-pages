@@ -2,8 +2,6 @@
 title: /enoodle
 ---
 
-![E pixel logo](docs/assets/caps_E-dark_240px.png)
-
 # Welcome to E Noodle.
 
 personal project of Evan N.
