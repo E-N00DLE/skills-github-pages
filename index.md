@@ -1,5 +1,5 @@
 ---
-title: enoodle
+title: /enoodle
 ---
 # Welcome to E Noodle.
 
