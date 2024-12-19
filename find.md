@@ -1,5 +1,5 @@
 ---
-title: find
+title: /find
 ---
 
 <a href="https://enoodle.bandcamp.com">bandcamp</a>
