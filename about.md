@@ -1,5 +1,5 @@
 ---
-title: about
+title: /about
 ---
 
 Evan N. is an electronic musician and interdisciplinary artist based in Atlanta, GA, working under the alias, E Noodle.
