@@ -8,3 +8,5 @@ header_pages:
 - index.md
 - about.md
 - find.md
+
+footer: 'contact: mail@enoodle.net'
